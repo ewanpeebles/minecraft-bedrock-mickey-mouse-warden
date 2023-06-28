@@ -16,9 +16,7 @@ to implement it as a usable resource pack. Then, go to [uuidgenerator.net](https
 Your texture pack is ready!
 
 # JAVA INSTRUCTIONS
+<!-- Emery pls work on this -->
 After downloading the java version, drag and drop it to the resource packs folder of minecraft.
 ---
 Special thanks to Blockbench for texture developement.
-
-
-
