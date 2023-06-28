@@ -12,7 +12,7 @@ BEDROCK INSTRUCTIONS:
 After downloading, copy and paste the following into the file explorer:
 ```C:\Users\YourName\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\development_resource_packs```
 
-to implement it as a usable resource pack. Then, go to [uuidgenerator.net](https://www.uuidgenerator.net) and copy and paste two uuids into the designated spots in the manifest.json file to give it a unique ID.
+to implement it as a usable resource pack. Then, go to [uuidgenerator.net](https://www.uuidgenerator.net) and copy and paste two DIFFERENT uuids into the designated spots in the manifest.json file to give it a unique ID.
 Your texture pack is ready!
 
 JAVA INSTURCTIONS:
