@@ -2,7 +2,7 @@
 > **IMPORTANT**
 > - Minecraft must be purchased to use this data.
 > - This mod was created on Windows and may not work on other platforms like Linux or Mac.
-> - This mod works with Minecraft Bedrock and Java edition.
+> - This mod works with Minecraft Bedrock, and we are currently developing a Java edition version.
 > - Additional data will be needed from a website to make the data usable on bedrock
 ---
 A texture pack to make the warden look like Mickey Mouse in Minecraft Bedrock Edition and Java. 
