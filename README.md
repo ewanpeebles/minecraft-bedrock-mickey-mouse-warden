@@ -23,4 +23,4 @@ Your texture pack is ready!
 After downloading the java version, drag and drop it to the resource packs folder of minecraft.
 
 ---
-[^1]: Special thanks to Blockbench for texture developement.
+[^1]: Blockbench used for texture developement, we know that it's open source but just wanted to give it a mention it just in case XD
