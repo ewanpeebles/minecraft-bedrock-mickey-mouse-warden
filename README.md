@@ -3,7 +3,6 @@
 > - Minecraft must be purchased to use this data.
 > - This mod was created on Windows and may not work on other platforms like Linux or Mac.
 > - This mod works with Minecraft Bedrock, and we are currently developing a Java edition version.
-> - Additional data will be needed from a website to make the data usable on bedrock
 ---
 # Description
 A texture pack to make the warden look like Mickey Mouse in Minecraft Bedrock Edition and Java. [^1]
@@ -21,4 +20,4 @@ Once you have imported it, create or edit a world, find the textures area, and a
 After downloading the java version, drag and drop it to the resource packs folder of minecraft.
 
 ---
-[^1]: Blockbench used for texture developement, we know that it's open source but just wanted to give it a mention it just in case XD
+[^1]: Blockbench used for texture developement, we know that it's open source but just wanted to give it a mention it just in case :|
