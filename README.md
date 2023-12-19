@@ -9,9 +9,15 @@ A texture pack to make the warden look like Mickey Mouse in Minecraft Bedrock Ed
 
 ---
 # INSTRUCTIONS FOR BEDROCK EDITION
-In order to download the repository, click on the green (or blue in some cases) "Code" button, and select "Download ZIP" and select where to download.
-After downloading, right-click the file and choose "Extract All...", and again, choose where to extract it. Double-click the file named "mickey-warden-bedrock.mcaddon" and Minecraft should start importing it.
-Once you have imported it, create or edit a world, find the textures area, and add it. Once a warden is summoned, it will have the Mickey Mouse texture!
+1. In order to download the repository, click on the green (or blue in some cases) "Code" dropdown button.
+2. Select "Download ZIP"
+3. Choose where to download.
+4. After downloading, right-click the file and choose "Extract All...".
+5. Choose where to extract the file.
+6. Double-click the file named ``mickey-warden-bedrock.mcaddon`` inside the extracted file.
+7. Minecraft should open and start importing it. If not, right-click ``mickey-warden-bedrock.mcaddon``, select "Open with...", and choose Minecraft.
+8. If Minecraft is not available as an option, just Google it. There must be a YouTube video out there somewhere to tell you what to do.
+9. Once you have imported it, create or edit a world, Select the Textures area in the , and ``Mickey Mouse Resource Pack``. Mickey Mouse is fun! Once a warden is summoned, it will have the Mickey Mouse texture!
 
 # INSTRUCTIONS FOR JAVA EDITION
 <!-- Emery pls work on this -->
